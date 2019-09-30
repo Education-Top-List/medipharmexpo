@@ -14,8 +14,8 @@ get_header();
 						<h4>IN HA NOI</h4>
 						<p>03-05/12/2020</p>
 						<ul>
-							<li><a href="http://hn.medipharm.co/vi/trang-chu-2/">- Tiếng Việt</a></li>
-							<li><a href="http://hn.medipharm.co/">- English</a></li>
+							<li><a href="http://hn.medipharmexpo.com.vn/vi/trang-chu-2/">- Tiếng Việt</a></li>
+							<li><a href="http://hn.medipharmexpo.com.vn/">- English</a></li>
 						</ul>
 					</div>
 				</div>
@@ -25,8 +25,8 @@ get_header();
 						<h4>IN HO CHI MINH</h4>
 						<p>06-08/8/2020</p>
 						<ul>
-							<li><a href="http://hcm.medipharm.co/vi/trang-chu-2/">- Tiếng Việt</a></li>
-							<li><a href="http://hcm.medipharm.co/">- English</a></li>
+							<li><a href="http://hcm.medipharmexpo.com.vn/vi/trang-chu/">- Tiếng Việt</a></li>
+							<li><a href="http://hcm.medipharmexpo.com.vn/">- English</a></li>
 						</ul>
 					</div>
 				</div>
